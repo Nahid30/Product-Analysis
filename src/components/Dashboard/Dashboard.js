@@ -55,7 +55,7 @@ const Dashboard = () => {
                     margin={{ top: 40, right: 30, left: 20, bottom: 20 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
-                    <YAxis />
+                    <YAxis dataKey="sell" />
                     <Tooltip />
                     <Legend />
                     <Line type="monotone" dataKey="sell" stroke="#8884d8" />
@@ -75,8 +75,8 @@ const Dashboard = () => {
                     <YAxis />
                     <Tooltip />
                     <Legend />
-                    <Bar dataKey="investment" fill="#8884d8" />
-                    <Bar dataKey="revenue" fill="#82ca9d" />
+                    <Bar dataKey="revenue" fill="#8884d8" />
+                    <Bar dataKey="investment" fill="#82ca9d" />
                 </BarChart>
                
 
