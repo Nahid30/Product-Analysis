@@ -10,9 +10,12 @@
     font-size: 20px;
     padding: 20px;
 }
-.about-container p{
+.about-container h4{
     font-size: 16px;
     text-align: center;
     font-weight: 600;
     padding: 10px 0px;
+}
+.about-container p{
+    text-align: center;
 }
