@@ -9,6 +9,7 @@
 }
 .left-side-text{
     padding: 30px;
+    order: 1;
 }
 .left-side-text h1 {
     color: #0e76a8;
@@ -44,6 +45,7 @@
 }
 .right-side-banner{
     width: 100%;
+    order: 2;
 }
 .right-side-banner img{
     width: 100%;
@@ -52,6 +54,7 @@
 }
 
 .seeAll-btn{
+
     background-color: #0e76a8;
     color: #fff;
     font-size: 20px;
@@ -65,3 +68,19 @@
     color: #0e76a8;
     transition: .3s;
 }
+
+
+@media screen and (max-width: 600px) {
+    
+    .home-container{
+        flex-direction: column;
+    }
+    .right-side-banner{
+        
+        order: 1;
+    }
+    .left-side-text{
+        
+        order: 2;
+    }
+ }

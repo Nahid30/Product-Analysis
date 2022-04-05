@@ -1,7 +1,15 @@
 
+
+.blogs{
+    width: 80%;
+    margin:  auto;
+
+}
+
 .blogs h2{
     text-align: center;
     color: black;
+    padding-top: 20px;
     
 }
 .blogs p{
@@ -12,8 +20,11 @@
     background-color: lightpink;
     color: rgb(82, 82, 82);
     margin: 50px 0px;
+    border-radius: 20px;
 }
 .question-two{
     background-color: lightpink;
     color: rgb(82, 82, 82);
+    border-radius: 20px;
+    margin-bottom: 40px;
 }

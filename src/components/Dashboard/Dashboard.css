@@ -1,0 +1,13 @@
+.chart-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+    
+   .chart-container{
+       flex-direction: column;
+   }
+
+}

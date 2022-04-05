@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import useReview from '../../Hooks/useReview';
 import banner from '../../images/banner.jpg';
 import Review from '../Review/Review';
@@ -8,6 +9,8 @@ import './Home.css';
 const Home = () => {
     const [reviews, setReviews] = useReview();
     const newReview = [...reviews.slice(0,3)]
+
+    let navigate = useNavigate();
     return (
         <div className='section'>
 
@@ -39,7 +42,7 @@ const Home = () => {
                         review={review}
                     ></Review>)
                 }
-               <button  className='seeAll-btn'>See all Reviews</button>
+               <button onClick={()=>navigate('/reviews')}  className='seeAll-btn'>See all Reviews</button>
             </div>
 
             

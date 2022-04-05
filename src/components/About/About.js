@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './About.css'
 
 const About = () => {
+    const [aboutUse, setaboutUse] = useState(2);
+    console.log(aboutUse);
     return (
         <div className='about-container'>
             <h1>We are Number one Watch brand shop in your Town , You already heard about us thats why you're reading this!!</h1>

@@ -5,8 +5,7 @@ import './Reviews.css';
 
 const Reviews = () => {
     const [reviews, setReviews] = useReview();
-
-
+   
 
     return (
         <div>

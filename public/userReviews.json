@@ -10,14 +10,14 @@
       "id": 2,
       "img": "./review-img/user2.jpg",
       "name": "Brad Palmer",
-      "rate": 4.5,
+      "rate": 4,
       "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 3,
       "img": "./review-img/user3.jpg",
       "name": "Grace Harrison",
-      "rate": 4.8,
+      "rate": 4.2,
       "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
