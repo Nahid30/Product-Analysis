@@ -1,10 +1,11 @@
 
 .card-container{
     width: 80%;
-    margin: 0 auto;
+    margin: 50px auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+
 }
 .review-title{
     text-align: center;

@@ -1,18 +1,40 @@
 
 
 .card{
-    background-color: lightblue;
+    background-color: rgb(198, 224, 233);
     border-radius: 10px;
     position: relative;
+    height: 230px;
+    margin-top: 50px;
     
 }
 .card-image img{
     border-radius: 50%;
+    border: 3px solid #fff;
     width: 20%;
     position: absolute;
-    top: -10px;
+    top: -30px;
+    left: 110px;
+    text-align: center;
+}
+.card-text{
+    padding: 10px;
 }
 .card-text h2{
-    color: #0e76a8 ;
+    color: black;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.card-text p{
+    margin-top: 10px;
+    font-size: 16px;
+    color: rgb(82, 79, 79);
+    text-align: left;
+    
+}
+.card-text p small{
+    color: rgb(98, 139, 15);
     
 }

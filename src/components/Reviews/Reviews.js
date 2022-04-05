@@ -22,6 +22,7 @@ const Reviews = () => {
                     ></Review>)
                 }
             </div>
+            
 
         </div>
     );

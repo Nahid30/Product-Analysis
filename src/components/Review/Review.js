@@ -14,7 +14,7 @@ const Review = (props) => {
             <div className='card-text'>
                 <h2>{name}</h2>
                 <p>{text}</p>
-                <p><small>{rate}</small></p>
+                <p><small>Ratings : {rate}</small></p>
             </div>
 
         </div>

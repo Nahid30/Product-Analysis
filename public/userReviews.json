@@ -4,41 +4,41 @@
       "img": "./review-img/user.jpg",
       "name": "Andrea Frazier",
       "rate": 5,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 2,
       "img": "./review-img/user2.jpg",
       "name": "Brad Palmer",
       "rate": 4.5,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 3,
       "img": "./review-img/user3.jpg",
       "name": "Grace Harrison",
       "rate": 4.8,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 4,
       "img": "./review-img/user4.jpg",
       "name": "Dustin Martinez",
       "rate": 5,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 5,
       "img": "./review-img/user5.jpg",
       "name": "Hector Williamson",
       "rate": 4.9,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     },
     {
       "id": 6,
       "img": "./review-img/user6.jpg",
       "name": "Jordan Kelley",
       "rate": 5,
-      "text": "This is good.Their Product is so nice"
+      "text": "This is good. Their Product is so nice. Their customer service is also fantastic. I recommend to you all to buy this one!!"
     }
   ]
