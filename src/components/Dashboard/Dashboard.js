@@ -52,7 +52,7 @@ const Dashboard = () => {
             <div>
            
                 <LineChart width={380} height={250} data={data}
-                    margin={{ top: 5, right: 30, left: 20, bottom: 20 }}>
+                    margin={{ top: 40, right: 30, left: 20, bottom: 20 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
